@@ -22,3 +22,6 @@ The former Articles and Citation pages have been consolidated into Published Rec
 Upload the contents of this folder to the repository root. Keep the Google verification HTML file already present in the repository; it is intentionally not included in this package.
 
 After deployment, resubmit `sitemap.xml` in Google Search Console and request indexing for the homepage and `what-is-the-unicorn-card.html`.
+
+## v6.1
+- Restored the three-card comparison image to the What Is It? and Provenance pages.
