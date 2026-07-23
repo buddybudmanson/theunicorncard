@@ -1,0 +1,9 @@
+# The Unicorn Card
+
+Official site: https://theunicorncard.com/
+
+The Unicorn Card is an independent documentary archive concerning a recurring artificial-intelligence baseball-card phenomenon: an apparently nonexistent card treated by AI systems as though it possessed an established identity, history, rarity, or collector standing.
+
+The archive distinguishes documented outputs from speculation. It preserves prompts, responses, screenshots, dates, model information, corrections, and contradictions.
+
+This site is not a marketplace and does not claim that artificial-intelligence systems possess intent.
