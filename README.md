@@ -1,12 +1,7 @@
-# The Unicorn Card
+# The Unicorn Card — Corrected Website
 
-Static website for [theunicorncard.com](https://theunicorncard.com).
+This version correctly identifies The Unicorn Card as the **2018 Topps Future Stars Shohei Ohtani #FS-5 Black parallel**.
 
-## Publish on GitHub Pages
+Upload all included files to the root of the GitHub repository, replacing the earlier version. Keep the included CNAME file.
 
-1. Upload all files in this folder to the root of the `main` branch.
-2. In **Settings → Pages**, publish from `main` and `/(root)`.
-3. Keep the included `CNAME` file in the repository.
-4. After DNS verification completes, enable **Enforce HTTPS**.
-
-The site uses plain HTML, CSS, and JavaScript. No build process is required.
+The hero currently uses a marked placeholder. Replace it later with a photograph you own or have permission to publish.
