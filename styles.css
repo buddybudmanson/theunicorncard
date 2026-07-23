@@ -226,3 +226,11 @@ blockquote{
 
 .definition-entry{padding:24px 0 54px;border-bottom:1px solid var(--line)}
 .definition-entry h2{margin-top:0}
+
+.record-entry{padding:1.5rem 0 2rem;border-bottom:1px solid var(--line)}
+.record-entry h3{margin:.25rem 0 .75rem}
+.standards-list{display:grid;grid-template-columns:minmax(150px,220px) 1fr;gap:.8rem 1.5rem}
+.standards-list dt{font-weight:700}
+.standards-list dd{margin:0}
+.related-links{margin-top:3rem;padding-top:2rem;border-top:1px solid var(--line)}
+@media (max-width:700px){.standards-list{grid-template-columns:1fr}.standards-list dd{margin-bottom:1rem}}

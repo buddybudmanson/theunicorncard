@@ -1,32 +1,24 @@
-# The Unicorn Card Archive — Museum Edition v3
+# The Unicorn Card Archive — Museum Edition v6
 
-## Publish on GitHub Pages
-1. Open the repository that currently hosts theunicorncard.com.
-2. Upload every file in this folder to the repository root.
-3. Allow GitHub to replace files with the same names.
-4. Commit the changes.
-5. Wait for the Pages deployment, then hard-refresh the website.
+Production package for GitHub Pages.
 
-## Important checks
-- `CNAME` is already set to `theunicorncard.com`.
-- The site links to PSA's live population-report landing page because PSA's internal item URLs may change.
-- Replace `contact@theunicorncard.com` in `contact.html` if needed.
-- Do not upload copyrighted card photographs unless you own them or have permission.
-- The Wikimedia comparison is linked externally rather than copied into this package.
+## v6 architecture
 
-## Pages
-Home, The Story, Identification, Evidence, Timeline, Provenance, Articles, FAQ, Contact.
+- Home
+- What Is the Unicorn Card?
+- The Story
+- Identification
+- Evidence
+- Timeline
+- Provenance
+- Definitions
+- FAQ
+- Published Record
 
-## Version 2 revisions
-- Makes the “True Unicorn” definition explicit before explanation.
-- Clarifies that a True Unicorn remains inside a mislabeled holder.
-- Revises PSA population wording to account for sign-in requirements and changing URLs.
-- Adds visible definition cards to key pages.
+The former Articles and Citation pages have been consolidated into Published Record.
 
-## Museum Edition v3
-- Full-bleed, permission-cleared comparison photography.
-- Dark archival hero treatment.
-- Oversized exhibition typography.
-- Museum placards and restrained bronze/cream palette.
-- Subtle scroll-reveal animation.
-- Comparison image integrated on the homepage and provenance page.
+## Deployment
+
+Upload the contents of this folder to the repository root. Keep the Google verification HTML file already present in the repository; it is intentionally not included in this package.
+
+After deployment, resubmit `sitemap.xml` in Google Search Console and request indexing for the homepage and `what-is-the-unicorn-card.html`.

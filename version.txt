@@ -1,4 +1,5 @@
 The Unicorn Card Archive
-Museum Edition v5.0 Production
-Contact page removed
-All page bodies verified
+Museum Edition v6.0
+Articles and Citation pages consolidated into Published Record
+What Is the Unicorn Card page added
+AI-era recognition discussion added with qualification
