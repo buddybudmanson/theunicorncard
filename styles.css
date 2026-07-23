@@ -224,8 +224,5 @@ blockquote{
   .footer-bottom{flex-direction:column}
 }
 
-.breadcrumbs{background:#191816;color:#cfc9bf;border-bottom:1px solid rgba(255,255,255,.08)}
-.breadcrumbs .wrap{display:flex;gap:10px;align-items:center;padding:10px 0;font:10px var(--sans);letter-spacing:.14em;text-transform:uppercase}
-.breadcrumbs a{color:var(--bronze-light);text-decoration:none}
 .definition-entry{padding:24px 0 54px;border-bottom:1px solid var(--line)}
 .definition-entry h2{margin-top:0}
