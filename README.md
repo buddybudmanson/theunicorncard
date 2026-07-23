@@ -10,7 +10,6 @@
 ## Important checks
 - `CNAME` is already set to `theunicorncard.com`.
 - The site links to PSA's live population-report landing page because PSA's internal item URLs may change.
-- Replace `contact@theunicorncard.com` in `contact.html` if needed.
 - Do not upload copyrighted card photographs unless you own them or have permission.
 - The Wikimedia comparison is linked externally rather than copied into this package.
 
