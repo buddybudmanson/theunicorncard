@@ -1,4 +1,4 @@
-# The Unicorn Card Archive — Site Package
+# The Unicorn Card Archive — Museum Edition v3
 
 ## Publish on GitHub Pages
 1. Open the repository that currently hosts theunicorncard.com.
@@ -16,3 +16,17 @@
 
 ## Pages
 Home, The Story, Identification, Evidence, Timeline, Provenance, Articles, FAQ, Contact.
+
+## Version 2 revisions
+- Makes the “True Unicorn” definition explicit before explanation.
+- Clarifies that a True Unicorn remains inside a mislabeled holder.
+- Revises PSA population wording to account for sign-in requirements and changing URLs.
+- Adds visible definition cards to key pages.
+
+## Museum Edition v3
+- Full-bleed, permission-cleared comparison photography.
+- Dark archival hero treatment.
+- Oversized exhibition typography.
+- Museum placards and restrained bronze/cream palette.
+- Subtle scroll-reveal animation.
+- Comparison image integrated on the homepage and provenance page.
