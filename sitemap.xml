@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://theunicorncard.com/</loc></url>
-  <url><loc>https://theunicorncard.com/story.html</loc></url>
-  <url><loc>https://theunicorncard.com/identification.html</loc></url>
-  <url><loc>https://theunicorncard.com/evidence.html</loc></url>
-  <url><loc>https://theunicorncard.com/timeline.html</loc></url>
-  <url><loc>https://theunicorncard.com/provenance.html</loc></url>
-  <url><loc>https://theunicorncard.com/articles.html</loc></url>
-  <url><loc>https://theunicorncard.com/faq.html</loc></url>
-  <url><loc>https://theunicorncard.com/contact.html</loc></url>
+  <url><loc>https://theunicorncard.com/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://theunicorncard.com/story.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://theunicorncard.com/identification.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://theunicorncard.com/evidence.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://theunicorncard.com/timeline.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://theunicorncard.com/provenance.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://theunicorncard.com/articles.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://theunicorncard.com/faq.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://theunicorncard.com/definitions.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://theunicorncard.com/citation.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
