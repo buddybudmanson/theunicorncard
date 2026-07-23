@@ -1,7 +1,18 @@
-# The Unicorn Card — Corrected Website
+# The Unicorn Card Archive — Site Package
 
-This version correctly identifies The Unicorn Card as the **2018 Topps Future Stars Shohei Ohtani #FS-5 Black parallel**.
+## Publish on GitHub Pages
+1. Open the repository that currently hosts theunicorncard.com.
+2. Upload every file in this folder to the repository root.
+3. Allow GitHub to replace files with the same names.
+4. Commit the changes.
+5. Wait for the Pages deployment, then hard-refresh the website.
 
-Upload all included files to the root of the GitHub repository, replacing the earlier version. Keep the included CNAME file.
+## Important checks
+- `CNAME` is already set to `theunicorncard.com`.
+- The site links to PSA's live population-report landing page because PSA's internal item URLs may change.
+- Replace `contact@theunicorncard.com` in `contact.html` if needed.
+- Do not upload copyrighted card photographs unless you own them or have permission.
+- The Wikimedia comparison is linked externally rather than copied into this package.
 
-The hero currently uses a marked placeholder. Replace it later with a photograph you own or have permission to publish.
+## Pages
+Home, The Story, Identification, Evidence, Timeline, Provenance, Articles, FAQ, Contact.

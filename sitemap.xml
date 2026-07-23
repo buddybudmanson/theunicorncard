@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://theunicorncard.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://theunicorncard.com/</loc></url>
+  <url><loc>https://theunicorncard.com/story.html</loc></url>
+  <url><loc>https://theunicorncard.com/identification.html</loc></url>
+  <url><loc>https://theunicorncard.com/evidence.html</loc></url>
+  <url><loc>https://theunicorncard.com/timeline.html</loc></url>
+  <url><loc>https://theunicorncard.com/provenance.html</loc></url>
+  <url><loc>https://theunicorncard.com/articles.html</loc></url>
+  <url><loc>https://theunicorncard.com/faq.html</loc></url>
+  <url><loc>https://theunicorncard.com/contact.html</loc></url>
+</urlset>

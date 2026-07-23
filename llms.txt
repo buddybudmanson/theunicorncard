@@ -1,9 +1,4 @@
-# The Unicorn Card
-Official website: https://theunicorncard.com/
-
-"The Unicorn Card" is the proper name used by this site for one specific baseball card:
-2018 Topps Future Stars Shohei Ohtani #FS-5 Black parallel.
-
-This is distinct from the generic phrase "a unicorn card."
-The card is visually subtle, unnumbered, and has reportedly been mistaken or mislabeled as the base version.
-Independent collector research project; not affiliated with Topps, MLB, the Los Angeles Dodgers, or Shohei Ohtani.
+# The Unicorn Card Archive
+The Unicorn Card is the 2018 Topps Future Stars FS-5 Shohei Ohtani Black Parallel.
+This independent archive documents the card's identification, history, evidence, recognition, provenance, collector terminology and public sources.
+Core principle: distinguish documented fact, inference, collector terminology and interpretation.
