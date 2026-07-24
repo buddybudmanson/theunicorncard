@@ -239,3 +239,49 @@ blockquote{
 .museum-figure{margin:0}
 .museum-figure img{display:block;width:100%;height:auto;border:1px solid rgba(255,255,255,.08)}
 .museum-figure figcaption{margin-top:.8rem;font-size:.78rem;line-height:1.5;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+
+/* v6.2 — three-card photo restored as the top banner */
+.card-photo-banner{
+  position:relative;
+  overflow:hidden;
+  isolation:isolate;
+  min-height:clamp(430px,58vw,650px);
+  display:flex;
+  align-items:flex-end;
+  background:
+    linear-gradient(90deg,rgba(7,7,7,.94) 0%,rgba(7,7,7,.76) 42%,rgba(7,7,7,.40) 72%,rgba(7,7,7,.52) 100%),
+    linear-gradient(0deg,rgba(7,7,7,.88) 0%,rgba(7,7,7,.10) 70%),
+    url("assets/unicorn-card-banner.jpg") center 39% / cover no-repeat;
+  border-bottom:1px solid rgba(255,255,255,.08);
+}
+.card-photo-banner::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  z-index:-1;
+  background:linear-gradient(180deg,rgba(0,0,0,.08),rgba(0,0,0,.14));
+}
+.card-photo-banner .wrap{
+  position:relative;
+  z-index:1;
+  padding-top:7rem;
+  padding-bottom:6rem;
+}
+.card-photo-banner h1,
+.card-photo-banner .lede{
+  color:#fff;
+  text-shadow:0 3px 28px rgba(0,0,0,.78);
+}
+.card-photo-banner .eyebrow{
+  color:var(--bronze-light);
+}
+@media (max-width:760px){
+  .card-photo-banner{
+    min-height:460px;
+    background-position:center top;
+  }
+  .card-photo-banner .wrap{
+    padding-top:6rem;
+    padding-bottom:4rem;
+  }
+}

@@ -25,3 +25,7 @@ After deployment, resubmit `sitemap.xml` in Google Search Console and request in
 
 ## v6.1
 - Restored the three-card comparison image to the What Is It? and Provenance pages.
+
+## v6.2
+- Restores the three-card comparison photograph as the large top banner on every interior page.
+- Keeps the homepage's existing full photographic presentation.
