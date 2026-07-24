@@ -1,8 +1,8 @@
-# The Unicorn Card Archive — Museum Edition v6
+# The Unicorn Card Archive — Museum Edition v7
 
 Production package for GitHub Pages.
 
-## v6 architecture
+## v7 architecture
 
 - Home
 - What Is the Unicorn Card?
@@ -29,3 +29,9 @@ After deployment, resubmit `sitemap.xml` in Google Search Console and request in
 ## v6.2
 - Restores the three-card comparison photograph as the large top banner on every interior page.
 - Keeps the homepage's existing full photographic presentation.
+
+## v7.0
+- Rewrites and substantially expands the Evidence page.
+- Adds the Recognition vs. Scarcity section and the PSA population comparison with SSP Hand on Helmet.
+- Preserves all existing public resources, visual design, navigation, banners, metadata and site architecture.
+- Updates cache-busting asset versions for deployment.
